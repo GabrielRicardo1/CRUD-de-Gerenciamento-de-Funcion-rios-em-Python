@@ -8,14 +8,3 @@ Um projeto simples em Python para gerenciamento de funcionários em uma empresa,
 - **Modificar dados**: Atualiza informações como nome, cargo ou salário de um funcionário existente.
 - **Excluir funcionário**: Remove um funcionário pelo CPF.
 
-## Exemplo de Uso:
-Após executar o programa, o usuário interage com um menu no terminal:
-
-```text
-Menu Principal:
-1. Cadastrar Funcionário
-2. Listar Funcionários
-3. Atualizar Funcionário
-4. Excluir Funcionário
-5. Sair
-Escolha uma opção: 
