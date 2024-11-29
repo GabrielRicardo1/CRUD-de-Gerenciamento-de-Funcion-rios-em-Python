@@ -20,21 +20,12 @@ Este sistema foi projetado para atender às necessidades básicas de administra�
 - **Exclusão de funcionários:**  
   Remove registros pelo CPF com facilidade.  
 
-- **Interface moderna:**  
-  Uma interface estética e funcional, com design responsivo, garantindo usabilidade em diferentes dispositivos.  
-
 - **Organização do código:**  
   Estrutura modular para facilitar a manutenção e a adição de novas funcionalidades.  
 
 ---
 
-## **Diferenciais**  
-- Nomeado como **AdminSimples**, refletindo simplicidade e eficiência.  
 - Totalmente implementado com **Python**, utilizando o framework **Flask** para a interface web.  
-- Código limpo e bem documentado, com separação entre rotas, lógica de negócios e interface.  
-- Estilo visual moderno, utilizando **CSS** personalizado para melhorar a experiência do usuário.  
-
----
 
 ## **Tecnologias Utilizadas**  
 - **Linguagem:** Python  
