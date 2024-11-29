@@ -1,0 +1,9 @@
+{% extends "base.html" %}
+
+{% block content %}
+<h1 class="text-center mb-4">Gestão de Funcionários</h1>
+<div class="text-center">
+    <a href="{{ url_for('list_employees') }}" class="btn btn-primary btn-lg m-2">Listar Funcionários</a>
+    <a href="{{ url_for('create_employee') }}" class="btn btn-success btn-lg m-2">Adicionar Funcionário</a>
+</div>
+{% endblock %}
